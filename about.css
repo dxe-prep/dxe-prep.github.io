@@ -1,7 +1,15 @@
 .reccomendations {
+<<<<<<< HEAD
+=======
+  box-sizing: border-box;
+>>>>>>> f78bb66485fb63b4f5c3b8afd8a5358be8b910ae
   width:100px;
   margin: 0 auto;
 }
 figure {
   width: 50px;
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> f78bb66485fb63b4f5c3b8afd8a5358be8b910ae
