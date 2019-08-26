@@ -137,3 +137,7 @@ slide p {
   30.0001% { left: -100%; width: 0%;}
   100% { left: 100%; width: 0%;}
 }
+
+#mainpage {
+  overflow: auto;
+}
