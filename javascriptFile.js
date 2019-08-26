@@ -1,4 +1,4 @@
-﻿
+// use comments so I understand what's going on
 var prevScrollPos = window.pageYOffset;
 window.onscroll = function() {
   var currentScrollPos = window.pageYOffset;
