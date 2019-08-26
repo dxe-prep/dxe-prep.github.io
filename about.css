@@ -11,4 +11,5 @@ figure {
   
 figcaption {
   font-size: 14px;
+  display: block;
 }
