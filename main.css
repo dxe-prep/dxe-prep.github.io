@@ -15,7 +15,7 @@ div {
   margin: 0 auto;
   height: 125px;
   transition: top 0.3s;
-  position: fixed;
+  position: absolute;
   display: block;
 }
 
