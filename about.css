@@ -5,11 +5,9 @@
   margin: 0 auto;
 }
 
-figure {
-  width: 50px;
-}
   
 figcaption {
   font-size: 14px;
   display: block;
+  width: 100px
 }
