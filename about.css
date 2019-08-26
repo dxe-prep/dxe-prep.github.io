@@ -1,0 +1,15 @@
+
+.reccomendations {
+  box-sizing: border-box;
+  width:100px;
+  margin: 0 auto;
+}
+
+figure {
+  width: 50px;
+}
+
+figcaption {
+  font-size: 14px;
+}
+
