@@ -1,5 +1,5 @@
 body {
- background-color: Red;
+ background-color: Aqua;
 }
 
 .reccomendations {
@@ -12,7 +12,7 @@ body {
 figcaption {
   font-size: 20px;
   display: block;
-  width: 250px;
+  width: 275px;
   text-align: center;
 }
 
