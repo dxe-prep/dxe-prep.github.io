@@ -1,15 +1,25 @@
+body {
+ background-color: Aqua;
+}
 
 .reccomendations {
-  box-sizing: border-box;
+  box-sizing:border-box;
   width:100px;
   margin: 0 auto;
 }
 
-figure {
-  width: 50px;
-}
-  
+
 figcaption {
-  font-size: 14px;
+  font-size: 20px;
   display: block;
+  width: 275px;
+  text-align: center;
+}
+
+h3 {
+ width: 400px;
+}
+
+h2 {
+ text-align: center;
 }

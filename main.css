@@ -30,14 +30,15 @@ nav ul {
   padding: 0;
   list-style: none;
   margin: 0;
- 
+
 }
 
 nav li {
   display: inline-block;
-  margin-left: 70px;
-  padding-top: 54px;
+  margin-left: 2.5em;
+  padding-top: 1.75em;
   position: relative;
+  font-size: 1.75vw;
 }
 
 nav a {
@@ -46,7 +47,7 @@ nav a {
   color: #19BAB5;
   font-family: "Open Sans";
   font-weight: lighter;
-  font-size: 25px;
+  font-size: 1.75vw;
   text-transform: uppercase;
 }
 
@@ -93,21 +94,21 @@ slide:nth-child(1) {
   left: 0%;
   animation-delay: -1s;
   background-size: cover;
-  background-image: 
+  background-image:
   background-position: center;
 }
 
 slide:nth-child(2) {
   animation-delay: 2s;
   background-size: cover;
-  background-image: 
+  background-image:
   background-position: center;
 }
 
 slide:nth-child(3) {
   animation-delay: 5s;
   background-size: cover;
-  background-image: 
+  background-image:
   background-position: center;
 }
 
@@ -115,7 +116,7 @@ slide:nth-child(4) {
   left: 0%;
   animation-delay: 8s;
   background-size: cover;
-  background-image: 
+  background-image:
   background-position: center;
 }
 
@@ -125,6 +126,14 @@ slide p {
   text-align: center;
   display: inline-block;
   width: 100%;
+  margin-top: 340px;
+  color: #ffffff;
+}
+
+slide small {
+  font-family: Open Sans;
+  text-align: center;
+  display: block;
   margin-top: 340px;
   color: #ffffff;
 }
