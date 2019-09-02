@@ -88,6 +88,17 @@ nav a {
   color: #f5f5f5;
 }
 
+i {
+  border: solid black;
+  border-width: 0 3px 3px 0;
+  display: inline-block;
+  padding: 3px;
+}
+
+.down {
+  transform: rotate(45deg);
+}
+
 nav li a:hover {
   color: #19BAB5;
 }
