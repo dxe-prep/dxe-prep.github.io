@@ -4,6 +4,10 @@ body {
   background-color: #222
 }
 
+.navbar {
+  
+}
+
 #logo {
   float: left;
   margin-top: 10px;
@@ -195,6 +199,6 @@ slide small {
   100% { left: 100%; width: 0%;}
 }
 
-#mainpage {
+.mainpage {
   overflow: auto;
 }
