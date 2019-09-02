@@ -90,6 +90,7 @@ nav a {
 
 i {
   border: solid black;
+  border-color: #19BAB5;
   border-width: 0 3px 3px 0;
   display: inline-block;
   padding: 3px;
