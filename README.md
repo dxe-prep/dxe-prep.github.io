@@ -1,4 +1,3 @@
-# dxe69.github.io
-We are big boys with big dxes.
-This project is about us creating proxy games that are unblocked and accesible by anyone. 
-This is also a place where others can check out our light novels and anime.
+# dxe-prep.github.io
+We are an organization that helps you with your algebra. We teach, correct, and give feedback on your work! 
+Feel free to contact anyone of us from our emails: ________
