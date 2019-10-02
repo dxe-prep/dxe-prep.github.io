@@ -146,21 +146,21 @@ slide:nth-child(1) {
   left: 0%;
   animation-delay: -1s;
   background-size: cover;
-  background-image: url(https://wallpaperbro.com/img/446120.jpg);
+  background-image: url(https://www.lockheedmartin.com/content/dam/lockheed-martin/eo/photo/webt/webt-woman-in-math-lead.jpg.pc-adaptive.full.medium.jpeg);
   background-position: center;
 }
 
 slide:nth-child(2) {
   animation-delay: 2s;
   background-size: cover;
-  background-image: url(https://wallpaperaccess.com/full/268174.jpg);
+  background-image: url(https://www.snopes.com/tachyon/2016/07/math.jpg?resize=865,452);
   background-position: center;
 }
 
 slide:nth-child(3) {
   animation-delay: 5s;
   background-size: cover;
-  background-image: url(http://www.af-usa.org/seeimg/big/104/1046105_nintendo-switch-wallpaper.jpg);
+  background-image: url(https://miro.medium.com/max/4456/1*O1Sg5-zkKdK1JLVlXsZ8Zw.jpeg);
   background-position: center;
 }
 
@@ -168,7 +168,7 @@ slide:nth-child(4) {
   left: 0%;
   animation-delay: 8s;
   background-size: cover;
-  background-image: url(https://images.alphacoders.com/692/thumb-1920-692362.png);
+  background-image: url(https://cdn.mos.cms.futurecdn.net/xYiTisbsp2HZPVupAZoNYQ-320-80.jpg);
   background-position: center;
 }
 
