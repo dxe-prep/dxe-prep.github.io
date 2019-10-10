@@ -1,8 +1,127 @@
 <!DOCTYPE html>
- <html>
-  <head>
-   <link rel="stylesheet" type="text/css" href="aboutalgebra.css">
-  </head>
-  <body>
-  </body>
- </html>
+<html lang="en">
+<head>
+<title>Course Catalog</title>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+* {
+  box-sizing: border-box;
+}
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+/* Style the header */
+header {
+  background-color: #666;
+  padding: 30px;
+  text-align: center;
+  font-size: 35px;
+  color: white;
+}
+/* Create two columns/boxes that floats next to each other */
+nav {
+  float: left;
+  width: 30%;
+  height: 300px; /* only for demonstration, should be removed */
+  background: #ccc;
+  padding: 20px;
+}
+/* Style the list inside the menu */
+nav ul {
+  list-style-type: none;
+  padding: 0;
+}
+article {
+  float: left;
+  padding: 20px;
+  width: 70%;
+  background-color: #f1f1f1;
+  height: 300px; /* only for demonstration, should be removed */
+}
+/* Clear floats after the columns */
+section:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+/* Style the footer */
+footer {
+  background-color: #777;
+  padding: 10px;
+  text-align: center;
+  color: white;
+}
+/* Responsive layout - makes the two columns/boxes stack on top of each other instead of next to each other, on small screens */
+@media (max-width: 600px) {
+  nav, article {
+    width: 100%;
+    height: auto;
+  }
+}
+</style>
+</head>
+<body>
+
+<header>
+  <h2>Introduction to ALgebra</h2>
+</header>
+
+<section>
+  <nav>
+    <ul>
+      <li><a href="#">AMC 8 Prep Course</a></li>
+      <li><a href="#">UMTYMP Prep Course</a></li>
+      <li><a href="#">About Us</a></li>
+    </ul>
+  </nav>
+  
+  <article>
+    <h1>The Class</h1>
+<p>The Introduction to ALgebra Course is currently the hardest course that dxe-prep has yet to offer. In this 16 week class 
+      students will be required to go to the weekly class held at ___ and will be given Lecture Notes for the class after it is done.  
+    The students will also be given a problem set which it is mandatory to do. The sets are designed to be very challenging for the students
+      and will require dilligence and patience every week to do. The estimated homework for the class is ranges from person to person and will require a dedication
+      from usually 3-7 hours per week.</p>
+  </article>
+  <article>
+    <h1>Curriculum</h1>
+    <p>
+      Our course will be going deep into essential topics about Algebra required for higher math courses and competition math.
+      Week 1           Follow the Rules
+Week 2	Fractional Exponents, Radicals, and Variables
+Week 3	Variables and Expressions
+Week 4	Linear Equations
+Week 5	More Variables
+Week 6	Linear Equations with Multiple Variables
+Week 7	Ratio and Percent
+Week 8	More Ratios and Proportion
+Week 9	Common Errors and Challenging Problems
+Week 10	Graphing Lines (Part 1)
+Week 11	Graphing Lines (Part 2) and Introduction to Inequalities
+Week 12	Graphing Inequalities
+Week 13	Quadratic Equations (Part 1)
+Week 14	Special Factorizations
+Week 15	Simon's Favorite Factoring Trick and Complex Numbers
+Week 16	Quadratic Equations (Part 2)
+
+      
+
+
+    </p>
+ 
+  </article>
+  <article>
+    <h1>Are You Ready?</h1>
+    <p>The course is pitched for people with no prior or little experience with algebra, but will aim to have them to be very skilled with it by the end of the course. 
+    For reference check these handouts that we will pass in the class <a href="#Number Theory 2"><img src="https://drive.google.com/file/d/124WtLc48oUI9AfrKtwnmVQGRT1H8yYlF/view" /></a>
+    </p>
+  </article>
+</section>
+
+<footer>
+  <p>Footer</p>
+</footer>
+
+</body>
+</html>
