@@ -8,5 +8,3 @@ Introduction to Algebra:
 UMTYMP Entrance Exam Seminar:
 
 If you are not certain of our qualifications to teach these subjects you can learn more about us in this page ()
-
-Feel free to contact anyone of us from our emails for any questions and concerns about these classes: duttaash000@isd284.com, govilshi000@isd28.com.
